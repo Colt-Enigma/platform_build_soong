@@ -103,6 +103,7 @@ var Configuration = map[string]PathConfig{
 	"java":    Allowed,
 	"javap":   Allowed,
 	"lsof":    Allowed,
+	"nproc":   Allowed,
 	"openssl": Allowed,
 	"patch":   Allowed,
 	"pkg-config": Allowed,
